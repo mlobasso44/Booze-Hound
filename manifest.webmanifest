@@ -1,0 +1,21 @@
+{
+ "name": "Booze Hound",
+ "short_name": "Booze Hound",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0e1521",
+ "theme_color": "#0e1521",
+ "icons": [
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
